@@ -1,0 +1,5 @@
+{
+  "name": "Kaipybara's Recipe Generator",
+  "description": "A simple web application that uses the Gemini API to generate cooking recipes based on user input. Users can specify ingredients, dish types, or dietary restrictions to get a custom recipe.",
+  "requestFramePermissions": []
+}
